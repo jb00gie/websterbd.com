@@ -1,0 +1,24 @@
+# Vagrant
+.vagrant
+
+# Grunt
+/node_modules/
+
+# Twig
+vendor/twig/twig/doc/*
+vendor/twig/twig/ext/*
+vendor/twig/twig/test/*
+
+# User config
+config.php
+
+# OS Generated
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.swp
+
+/img\ alias/
+
+/Featured_Project_Assets/

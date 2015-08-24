@@ -1,0 +1,12 @@
+GLOBAL
+- Finalize copy (with Brad)
+- Add photos (Brad/Jack)
+- style testimonies component (check with brad and jack)
+- vectorize blockquote accent (Jake)
+- Clean up code
+
+HOME PAGE
+- finalize "A few of our clients" logos (Brad)
+
+SERVICES PAGE
+- Replace UH with EL (need logo from Brad)
