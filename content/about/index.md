@@ -52,25 +52,27 @@ Description: Learn more about our team.
 					</div>
 				</div>
 			</div>
-			<!-- <div class="col-sm-4">
+		</div>
+		<section>
+			<div class="col-sm-4 col-md-offset-1">
 				<div class="person">
-					<img src="themes/smm/img/jack.jpg" class="img-responsive" alt="Jack Vu">
+					<img src="themes/smm/img/allie.jpg" class="img-responsive img-circle" alt="Allie">
 					<div class="person-info">
-						<h2>Jack Vu</h2>
-						<div class="position">Code Intern</div>
+						<h3>Allie Jane Juday</h3>
+						<div class="position">Admin & Design Intern</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-4">
+			<div class="col-sm-4 col-md-offset-2">
 				<div class="person">
-					<img src="themes/smm/img/jake.jpg" class="img-responsive" alt="Jack Scanlan">
+					<img src="themes/smm/img/amber.jpg" class="img-responsive img-circle" alt="Amber">
 					<div class="person-info">
-						<h2>Jake Scanlan</h2>
+						<h3>Amber Obenhaus</h3>
 						<div class="position">Design Intern</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-4">
+			<!-- <div class="col-sm-4">
 				<div class="person">
 					<img src="themes/smm/img/ben.jpg" class="img-responsive" alt="Ben Siekmeier">
 					<div class="person-info">
@@ -80,6 +82,7 @@ Description: Learn more about our team.
 				</div>
 			</div> -->
 		</div>
+		</section>
 	</div>
 </section>
 

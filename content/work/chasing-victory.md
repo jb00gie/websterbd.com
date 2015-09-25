@@ -70,7 +70,7 @@ Description: Project presentation for Bethel Logo
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-black">
-								<img src="../themes/smm/img/project-assets/chasing-victory/CV_Logo.svg" class="center-block img-responsive" alt="Chasing Victory logo">
+								<img src="../themes/smm/img/project-assets/chasing-victory/CV_Logo_wht.svg" class="center-block img-responsive" alt="Chasing Victory logo">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Figure 1.1.1 - Full lockup on dark background</figcaption>
 						</figure>

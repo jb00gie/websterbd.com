@@ -62,7 +62,7 @@ Description: Harris Studios Project Page
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-white">
-								<img src="../themes/smm/img/project-assets/harris-studios/Harris_Logo_Small_Use_copy.svg" class="center-block img-responsive" alt="Harris Studios logo">
+								<img src="../themes/smm/img/project-assets/harris-studios/Harris_Logo_black.svg" class="center-block img-responsive" alt="Harris Studios logo">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Full lockup on light background</figcaption>
 						</figure>
@@ -70,7 +70,7 @@ Description: Harris Studios Project Page
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-black">
-								<img src="../themes/smm/img/project-assets/harris-studios/Harris_Logo_Small_Use_copy.svg" class="center-block img-responsive" alt="Harris Studios logo">
+								<img src="../themes/smm/img/project-assets/harris-studios/Harris_Logo_white.svg" class="center-block img-responsive" alt="Harris Studios logo">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Full lockup on dark background</figcaption>
 						</figure>
@@ -93,7 +93,7 @@ Description: Harris Studios Project Page
 					<div class="col-sm-6">
 						<figure>
 							<div class="logo-bg bg-brand-black">
-								<img src="../themes/smm/img/project-assets/harris-studios/Harris_Logo_Horizontal_Lockup_black.svg" alt="Harris Studios Horitonal Logo" class="center-block img-responsive">
+								<img src="../themes/smm/img/project-assets/harris-studios/Harris_Logo_Horizontal_Lockup_white.svg" alt="Harris Studios Horitonal Logo" class="center-block img-responsive">
 							</div>
 							<figcaption class="libre"><span class="up-triangle">&#9650;</span> Horizontal lockup on light background</figcaption>
 						</figure>

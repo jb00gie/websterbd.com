@@ -70,14 +70,6 @@ Description: Discover the inspiring work from Brad and his design team.
 				</div>
 				<div class="col-sm-6 col-md-4">
 					<p>This expands the branding concept far beyond the marketing dept into every area of customer service. This is on going and far from a one time exercise.</p>
-					<!-- <ul>
-						<li>Responsive Websites</li>
-						<li>Ecommerce</li>
-						<li>Web Apps</li>
-						<li>Logo Design</li>
-						<li>Landing Pages</li>
-						<li>Web Style Guide</li>
-					</ul> -->
 				</div>
 			</div>
 		</div>
@@ -99,11 +91,6 @@ Description: Discover the inspiring work from Brad and his design team.
 				</div>
 				<div class="col-sm-6 col-md-4">
 					<p>Your brand’s personality begins with a visual expression in your logo, typefaces and color schemes, and extends far beyond that into your unique flair, tone of voice and messaging throughout all communication and advertising materials.</p>
-					<!-- <ul>
-						<li>Content Strategy</li>
-						<li>Copywrighting</li>
-						<li>Social Media messaging</li>
-					</ul> -->
 				</div>
 			</div>
 		</div>
@@ -346,7 +333,7 @@ Description: Discover the inspiring work from Brad and his design team.
 								<img src="themes/smm/img/client-testimonies/trish-harris.jpg" class="img-responsive img-circle center-block" alt="Trish Harris">
 							</div>
 							<div class="col-sm-9">
-								<p>&#8220;My experience with SM has been professional, and effective. I am already referring SM to my friends.&#8221; <br> <cite>- Trish Harris, Harris Studios</cite></p>
+								<p>&#8220;My experience with Brad and his team has been professional, and effective. I am already referring SM to my friends.&#8221; <br> <cite>- Trish Harris, Harris Studios</cite></p>
 							</div>
 						</div>
 					</div>
