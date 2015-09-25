@@ -19,15 +19,15 @@ Description: Discover the inspiring work from Brad and his design team.
 					<p>We started at the center and asked “what is the most crucial element to building a strong organizational culture?” We realized that a core Purpose was absolutley essential to direction, focus and culture.</p>
 				</div>
 				<div class="col-sm-6 col-md-4">
-					<!-- <p>We can design out the visual and tonal manifestation of that strategy, such as the logo, typefaces, icons and tone-of-voice, as well as a style guide to help your team manage your brand well.</p> -->
-					<ul>
+					<p>We can design out the visual and tonal manifestation of that strategy, such as the logo, typefaces, icons and tone-of-voice, as well as a style guide to help your team manage your brand well.</p>
+					<!-- <ul>
 						<li>Conceptualization</li>
 						<li>Naming</li>
 						<li>Brand Rollout Strategy</li>
 						<li>Logo Design</li>
 						<li>Marketing Collateral</li>
 						<li>Brand Style Guide</li>
-					</ul>
+					</ul> -->
 				</div>
 			</div>
 		</div>
@@ -48,17 +48,7 @@ Description: Discover the inspiring work from Brad and his design team.
 					<p>Establishing a clear Position not only in your category but to differentiate in the mind of your audience. This area of the branding world is often referred to as "mind share".</p>
 				</div>
 				<div class="col-sm-6 col-md-4">
-					<!-- <p>We can design the big stuff, such as ads, packaging and signage, as well as the small things such as business cards and stationary.</p> -->
-					<ul>
-						<li>Business Cards</li>
-						<li>Letterheads</li>
-						<li>Book covers</li>
-						<li>Album covers</li>
-						<li>Mailers</li>
-						<li>Apparell</li>
-						<li>Packaging</li>
-						<li>Banners</li>
-					</ul>
+					<p>We can design the big stuff, such as ads, packaging and signage, as well as the small things such as business cards and stationary.</p>
 				</div>
 			</div>
 		</div>
@@ -80,14 +70,14 @@ Description: Discover the inspiring work from Brad and his design team.
 				</div>
 				<div class="col-sm-6 col-md-4">
 					<p>This expands the branding concept far beyond the marketing dept into every area of customer service. This is on going and far from a one time exercise.</p>
-					<ul>
+					<!-- <ul>
 						<li>Responsive Websites</li>
 						<li>Ecommerce</li>
 						<li>Web Apps</li>
 						<li>Logo Design</li>
 						<li>Landing Pages</li>
 						<li>Web Style Guide</li>
-					</ul>
+					</ul> -->
 				</div>
 			</div>
 		</div>
@@ -109,11 +99,11 @@ Description: Discover the inspiring work from Brad and his design team.
 				</div>
 				<div class="col-sm-6 col-md-4">
 					<p>Your brand’s personality begins with a visual expression in your logo, typefaces and color schemes, and extends far beyond that into your unique flair, tone of voice and messaging throughout all communication and advertising materials.</p>
-					<ul>
+					<!-- <ul>
 						<li>Content Strategy</li>
 						<li>Copywrighting</li>
 						<li>Social Media messaging</li>
-					</ul>
+					</ul> -->
 				</div>
 			</div>
 		</div>
@@ -122,138 +112,11 @@ Description: Discover the inspiring work from Brad and his design team.
 
 <!-- OLD MODAL -->
 
-<!-- <div class="md-modal md-effect-12" id="modal-branding">
-	<div class="md-content">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-8 col-md-offset-2">
-					<h3 class="text-left">Branding </h3>
-					<div class="close-box">
-						<span class="pull-right md-close">&#10005;</span>
-					</div>
-				</div>
-				<div class="col-sm-6 col-md-4 col-md-offset-2">
-					<p>We believe in building purpose-driven brands. Your price and product will change as you grow, but your purpose should never change.</p>
-					<p>We've simplified the branding process to make it easier for our clients' to understand, appreciate and follow along, while still delivering maximum impact.</p>
-				</div>
-				<div class="col-sm-6 col-md-4">
-					<p>We can design out the visual and tonal manifestation of that strategy, such as the logo, typefaces, icons and tone-of-voice, as well as a style guide to help your team manage your brand well.</p>
-					<ul>
-						<li>Conceptualization</li>
-						<li>Naming</li>
-						<li>Brand Rollout Strategy</li>
-						<li>Logo Design</li>
-						<li>Marketing Collateral</li>
-						<li>Brand Style Guide</li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
-
-<div class="md-modal md-effect-12" id="modal-print">
-	<div class="md-content">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-8 col-md-offset-2">
-					<h3 class="text-left">Print</h3>
-					<div class="close-box">
-						<span class="pull-right md-close">&#10005;</span>
-					</div>
-				</div>
-				<div class="col-sm-6 col-md-4 col-md-offset-2">
-					<p>Because we live in a real world and your brand cannot exist in digital form alone.  Print is still very much alive and still offers great opportunities for your audience to connect with your brand.</p>
-				</div>
-				<div class="col-sm-6 col-md-4">
-					<p>We can design the big stuff, such as ads, packaging and signage, as well as the small things such as business cards and stationary.</p>
-					<ul>
-						<li>Business Cards</li>
-						<li>Letterheads</li>
-						<li>Book covers</li>
-						<li>Album covers</li>
-						<li>Mailers</li>
-						<li>Apparell</li>
-						<li>Packaging</li>
-						<li>Banners</li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>  
-
-<div class="md-modal md-effect-12" id="modal-web">
-	<div class="md-content">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-8 col-md-offset-2">
-					<h3 class="text-left">Web</h3>
-					<div class="close-box">
-						<span class="pull-right md-close">&#10005;</span>
-					</div>
-				</div>
-				<div class="col-sm-6 col-md-4 col-md-offset-2">
-					<p>Your online presence is probably your biggest touch-point, and your brand emotion needs be reflected in the experience. Whether your audience is interacting with you online via desktop, laptop, tablet or mobile, their experience should be easy-to-use, positive and memorable.</p>
-				</div>
-				<div class="col-sm-6 col-md-4">
-					<p>Besides that, it also needs to meet your business goals.  We like to ask, "If your website was an employee, what would you want it to do for you?".  The answer to that question will give us a good idea of where to start.</p>
-					<ul>
-						<li>Responsive Websites</li>
-						<li>Ecommerce</li>
-						<li>Web Apps</li>
-						<li>Logo Design</li>
-						<li>Landing Pages</li>
-						<li>Web Style Guide</li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>  
-
-<div class="md-modal md-effect-12" id="modal-messaging">
-	<div class="md-content">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-8 col-md-offset-2">
-					<h3 class="text-left">Messaging</h3>
-					<div class="close-box">
-						<span class="pull-right md-close">&#10005;</span>
-					</div>
-				</div>
-				<div class="col-sm-6 col-md-4 col-md-offset-2">
-					<p>For a brand to be effective it's messaging has to be consistent and on-brand.  Today there are more ways for brands to connect with their audience then in the past.  Facebook, Twitter, email...the list goes on.  You commmunciation across channels needs to be consistent, and awesome!</p>
-				</div>
-				<div class="col-sm-6 col-md-4">
-					<p>We can help develop messaging that can be used on your website, your print touch-points, social media, or anywhere you connect with your audience.</p>
-					<ul>
-						<li>Content Strategy</li>
-						<li>Copywrighting</li>
-						<li>Social Media messaging</li>
-					</ul>
-				</div>
-			</div>
-		</div>
-	</div>
-</div> -->
-
-<!-- <div class="md-modal md-effect-12" id="modal-four-steps">
-	<div class="md-content">
-		<div class="container">
-			<div class="row">
-				<div class="col-xs-12">
-					<img src="themes/smm/img/four-steps2.svg" class="img-responsive" alt="Four Steps">
-				</div>
-			</div>
-		</div>
-	</div>
-</div> -->
 
 <!-- jumbotron -->
 <section class="jumbotron text-center">
 	<img src="themes/smm/img/Logo_Main_Full_Single-Piece.png" class="logo" alt="WebsterBD Logo" width="287px" height="200px">
-	<h1 class="title">Distill Your Brand Into It's Purest Form</h1>
+	<h1 class="title">Distill Your Brand Into Its Purest Form</h1>
 	<!-- <h2 class="hidden-xs">Influential Branding for Companies on the Rise.</h2> -->
 	<div class="jumbo-call">
 		<a href="#what-we-do" class="btn btn-cream btn-lg" role="button">Learn How</a>
@@ -261,50 +124,6 @@ Description: Discover the inspiring work from Brad and his design team.
 	<!-- <div class="down-arrow"><img src="themes/smm/img/down-arrow.svg" alt="Down Arrow"></div> -->
 </section>
 
-<!-- What we do -->
-<!-- <div id="what-we-do" class="anchor"></div>
-<section id="services" class="hidden-xs">
-	<div class="container">
-		<h2 class="headline text-center">What We Do</h2>
-		<div class="row">
-			<div class="col-sm-6 col-md-3 service">
-				<div class="service-inner service-branding md-trigger" data-modal="modal-branding">
-					<div class="service-content">
-						<h3>Branding</h3>
-						<p>We take your business identity from idea to reality, telling your story with consistency.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-6 col-md-3 service">
-				<div class="service-inner service-print md-trigger" data-modal="modal-print">
-					<div class="service-content">
-						<h3>Print</h3>
-						<p>We create engaging print materials, and take them from concept to delivery for you.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-6 col-md-3 service">
-				<div class="service-inner service-web md-trigger" data-modal="modal-web">
-					<div class="service-content">
-						<h3>Web</h3>
-						<p>We build compelling mobile, tablet, and desktop experiences with our poetic code.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-sm-6 col-md-3 service">
-				<div class="service-inner service-messaging md-trigger" data-modal="modal-messaging">
-					<div class="service-content">
-						<h3>Messaging</h3>
-						<p>We create authentic content that streamlines and shares your brand message.</p>
-					</div>
-				</div>
-			</div>
-			<div class="col-xs-12 col-sm-6 col-md-3 pull-right">
-				<a href="services" class="btn btn-lg btn-red btn-lg btn-block">Learn More <span class="right-arrow">&#8608;</span></a>
-			</div>
-		</div>
-	</div>
-</section> -->
 
 
 <!-- OUR PROCESS -->
@@ -317,7 +136,7 @@ Description: Discover the inspiring work from Brad and his design team.
 				<div class="service-inner service-branding md-trigger" data-modal="modal-branding">
 					<div class="service-content">
 						<h3>Purpose</h3>
-						<p>Discover the key elements in building your organization. </p>
+						<!-- <p>Discover the key elements in building your organization. </p> -->
 					</div>
 				</div>
 			</div>
@@ -325,7 +144,7 @@ Description: Discover the inspiring work from Brad and his design team.
 				<div class="service-inner service-print md-trigger" data-modal="modal-print">
 					<div class="service-content">
 						<h3>Position</h3>
-						<p>Differentiate yourself in the minds of your audience.</p>
+						<!-- <p>Differentiate yourself in the minds of your audience.</p> -->
 					</div>
 				</div>
 			</div>
@@ -333,7 +152,7 @@ Description: Discover the inspiring work from Brad and his design team.
 				<div class="service-inner service-web md-trigger" data-modal="modal-web">
 					<div class="service-content">
 						<h3>Promise</h3>
-						<p>Faithfully deilver your service and product, your brand.</p>
+						<!-- <p>Faithfully deilver your service and product, your brand.</p> -->
 					</div>
 				</div>
 			</div>
@@ -341,7 +160,7 @@ Description: Discover the inspiring work from Brad and his design team.
 				<div class="service-inner service-messaging md-trigger" data-modal="modal-messaging">
 					<div class="service-content">
 						<h3>Personality</h3>
-						<p>Connect your organization to the heart of your audience.</p>
+						<!-- p>Connect your organization to the heart of your audience.</p> -->
 					</div>
 				</div>
 			</div>

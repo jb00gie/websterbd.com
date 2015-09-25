@@ -6,6 +6,8 @@ vendor/twig/twig/doc/*
 vendor/twig/twig/ext/*
 vendor/twig/twig/test/*
 
+.htaccess
+
 
 # OS Generated
 .DS_Store*

@@ -274,7 +274,7 @@ Description: Harris Studios Project Page
 						<img src="../themes/smm/img/client-testimonies/trish-harris.jpg" class="img-responsive img-circle" alt="Generic placeholder image">
 					</div>
 					<div class="col-sm-9">
-						<p>&#8220;My experience with SM has been professional, and effective. I am already referring SM to my friends.&#8221; <br> <cite>- Trish Harris, Harris Studios</cite></p>
+						<p>&#8220;My experience with Brad and his team has been professional, and effective. I am already referring WebsterBD to my friends.&#8221; <br> <cite>- Trish Harris, Harris Studios</cite></p>
 					</div>
 				</div>
 			</div>

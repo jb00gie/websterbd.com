@@ -352,7 +352,7 @@ Description: Project presentation for On The Beam
 	</div>
 </section>
 
-<section id="testimonies">
+<!-- <section id="testimonies">
 	<div class="container">
 		<div class="row client-testimonial">
 			<div class="col-md-8 col-md-offset-2">
@@ -367,7 +367,7 @@ Description: Project presentation for On The Beam
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 
 <section id="work-pager" class="bg-brand-red">
 	<div class="container">
