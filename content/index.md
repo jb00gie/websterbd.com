@@ -16,7 +16,7 @@ Description: Discover the inspiring work from Brad and his design team.
 					</div>
 				</div>
 				<div class="col-sm-6 col-md-4 col-md-offset-2">
-					<p>We started at the center and asked “what is the most crucial element to building a strong organizational culture?” We realized that a core Purpose was absolutley essential to direction, focus and culture.</p>
+					<p>We started at the center and asked “what is the most crucial element to building a strong organizational culture? We realized that a core Purpose was absolutley essential to direction, focus and culture.</p>
 				</div>
 				<div class="col-sm-6 col-md-4">
 					<p>We can design out the visual and tonal manifestation of that strategy, such as the logo, typefaces, icons and tone-of-voice, as well as a style guide to help your team manage your brand well.</p>
@@ -66,7 +66,7 @@ Description: Discover the inspiring work from Brad and his design team.
 					</div>
 				</div>
 				<div class="col-sm-6 col-md-4 col-md-offset-2">
-					<p>Your brand is not just your logo and visual identity, it is your reputation—and it is built over time. Your brand Promise is what you are consistently and faithfully delivering to your customers.</p>
+					<p>Your brand is not just your logo and visual identity, it is your reputation and it is built over time. Your brand Promise is what you are consistently and faithfully delivering to your customers.</p>
 				</div>
 				<div class="col-sm-6 col-md-4">
 					<p>This expands the branding concept far beyond the marketing dept into every area of customer service. This is on going and far from a one time exercise.</p>
@@ -159,39 +159,35 @@ Description: Discover the inspiring work from Brad and his design team.
 </section>
 
 <!-- What we do (Mobile) -->
-<section id="services" class="visible-xs">
+<section id="purpose" class="visible-xs">
 	<div class="container">
 		<h2 class="headline text-center">What We Do</h2>
 		<div class="row">
 			<div class="col-sm-6 col-md-3 service">
 				<div class="service-inner service-branding">
-					<a href="services#branding" class="service-content">
-						<h3>Branding</h3>
-						<p>We take your business identity from idea to reality, telling your story with consistency.</p>
+					<a href="our-process#position" class="service-content">
+						<h3>Purpose</h3>
 					</a>
 				</div>
 			</div>
 			<div class="col-sm-6 col-md-3 service">
 				<div class="service-inner service-print">
-					<a href="services#print" class="service-content">
-						<h3>Print</h3>
-						<p>We create engaging print materials, and take them from concept to delivery for you.</p>
+					<a href="our-process#position" class="service-content">
+						<h3>Position</h3>
 					</a>
 				</div>
 			</div>
 			<div class="col-sm-6 col-md-3 service">
 				<div class="service-inner service-web">
-					<a href="services#web" class="service-content">
-						<h3>Web</h3>
-						<p>We build compelling mobile, tablet, and desktop experiences with our poetic code.</p>
+					<a href="our-process#promise" class="service-content">
+						<h3>Promise</h3>
 					</a>
 				</div>
 			</div>
 			<div class="col-sm-6 col-md-3 service">
 				<div class="service-inner service-messaging">
-					<a href="services#messaging" class="service-content">
-						<h3>Messaging</h3>
-						<p>We create authentic content that streamlines and shares your brand message.</p>
+					<a href="our-process#personality" class="service-content">
+						<h3>Personality</h3>
 					</a>
 				</div>
 			</div>
@@ -333,7 +329,7 @@ Description: Discover the inspiring work from Brad and his design team.
 								<img src="themes/smm/img/client-testimonies/trish-harris.jpg" class="img-responsive img-circle center-block" alt="Trish Harris">
 							</div>
 							<div class="col-sm-9">
-								<p>&#8220;My experience with Brad and his team has been professional, and effective. I am already referring SM to my friends.&#8221; <br> <cite>- Trish Harris, Harris Studios</cite></p>
+								<p>&#8220;My experience with Brad and his team has been professional, and effective. I am already referring Webster Branding to my friends.&#8221; <br> <cite>- Trish Harris, Harris Studios</cite></p>
 							</div>
 						</div>
 					</div>

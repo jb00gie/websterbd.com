@@ -14,8 +14,14 @@
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#131313', endColorstr='#2c2c2c', GradientType=0 ), url(../img/WBD_Hero_Image.jpg) center -150px no-repeat fixed;
 
   @media (min-width: 0) and (max-width: @screen-sm) {
-    background-position: right center;
+    background-position: center;
     background-attachment: scroll;
+
+      img.logo {
+        max-width: 80%;
+        max-height: 20%;
+        // padding-top: 2em;
+    }
   }
 
   @media (max-width: @screen-xs-max) {
@@ -574,18 +580,21 @@ aside {
 
 .person {
   margin-bottom: 30px;
-  color: @brand-cream;
+  color: @brand-success;
   // background-color: @brand-black;
 
   h2 {
     margin-bottom: 0;
-    color: @brand-cream;
-    font-size: 32px;
+    color: @brand-success;
+    font-size: 27px;
   }
 
   img {
     // .opacity(0.8);
-    width: 100%;
+    width: 80%;
+    margin: 7em auto;
+    margin-top: 3em;
+
   }
 }
 
@@ -593,7 +602,7 @@ aside {
   position: absolute;
   left: 0;
   right: 0;
-  bottom: 75px;
+  bottom: 0em;
 }
 
 .position {
@@ -603,7 +612,7 @@ aside {
 .personal-contact {
   a {
     padding: 10px;
-    color: @brand-cream;
+    color: @brand-success;
     font-size: 22px;
 
     &:last-child {
@@ -614,6 +623,16 @@ aside {
       color: @brand-red;
     }
   }
+}
+
+@media (max-width: @screen-xs-max) {
+    .person {
+      margin-bottom: 9em;
+    }
+    .person-info {
+      bottom: -7em;
+    }
+
 }
 
 

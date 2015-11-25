@@ -25,9 +25,9 @@ Description: Learn more about our team.
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-sm-6">
+			<div class="col-sm-4">
 				<div class="person">
-					<img src="themes/smm/img/brad.jpg" class="img-responsive" alt="Brad Webster" width="1110" height="1110">
+					<img src="themes/smm/img/brad.jpg" class="img-responsive img-circle" alt="Brad Webster" width="1110" height="1110">
 					<div class="person-info">
 						<h2>Brad Webster</h2>
 						<div class="position">Owner, Brand Strategist &amp; Creative Director</div>
@@ -37,52 +37,74 @@ Description: Learn more about our team.
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-6">
+			<div class="col-sm-4">
 				<div class="person">
-					<img src="themes/smm/img/jack.jpg" class="img-responsive" alt="Jack Vu" width="1110" height="1110">
+					<img src="themes/smm/img/jack.jpg" class="img-responsive img-circle" alt="Jack Vu" width="1110" height="1110">
 					<div class="person-info">
 						<h2>Jack Vu</h2>
-						<div class="position">Web Designer &amp; Photographer</div>
+						<div class="position">UX Designer &amp; Developter</div>
 						<div class="personal-contact">
 							<a href="http://www.facebook.com/jackvuphotography"><i class="fa fa-facebook"></i></a>
 							<a href="https://www.instagram.com/_jackvu_" rel="publisher"><i class="fa fa-instagram"></i></a>
 							<a href="http://www.twitter.com/jackvu"><i class="fa fa-twitter"></i></a>
-							<a href="mailto:jvuwebdesign@gmail.com"><i class="fa fa-envelope"></i></a>
+							<a href="mailto:jackvucreative@gmail.com"><i class="fa fa-envelope"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<div class="person">
+					<img src="themes/smm/img/jonathan-m.jpg" class="img-responsive img-circle" alt="Jack Vu" width="1110" height="1110">
+					<div class="person-info">
+						<h2>Jonathan McGraw</h2>
+						<div class="position">Print &amp; Web Designer</div>
+						<div class="personal-contact">
+							<a href="mailto:jackvucreative@gmail.com"><i class="fa fa-envelope"></i></a>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-		<section>
-			<div class="col-sm-4 col-md-offset-1">
+		<div class="row">
+		<div class="col-sm-4">
+				<div class="person">
+					<img src="themes/smm/img/andreas.jpg" class="img-responsive img-circle" alt="Amber">
+					<div class="person-info">
+						<h2>Andrea Schmidt</h2>
+						<div class="position">Copy Writer</div>
+							<div class="personal-contact">
+							<a href="mailto:andreaschmidt88@gmail.com"><i class="fa fa-envelope"></i></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-4">
 				<div class="person">
 					<img src="themes/smm/img/allie.jpg" class="img-responsive img-circle" alt="Allie">
 					<div class="person-info">
-						<h3>Allie Jane Juday</h3>
+						<h2>Allie Jane Juday</h2>
 						<div class="position">Admin & Design Intern</div>
+							<div class="personal-contact">
+							<a href="https://www.instagram.com/insanealliejane" rel="publisher"><i class="fa fa-instagram"></i></a>
+							<a href="mailto:allie@websterbd.com"><i class="fa fa-envelope"></i></a>
+						</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-4 col-md-offset-2">
+			<div class="col-sm-4">
 				<div class="person">
 					<img src="themes/smm/img/amber.jpg" class="img-responsive img-circle" alt="Amber">
 					<div class="person-info">
-						<h3>Amber Obenhaus</h3>
+						<h2>Amber Obenhaus</h2>
 						<div class="position">Design Intern</div>
+							<div class="personal-contact">
+							<a href="mailto:amber.obenh@gmail.com"><i class="fa fa-envelope"></i></a>
+						</div>
 					</div>
 				</div>
 			</div>
-			<!-- <div class="col-sm-4">
-				<div class="person">
-					<img src="themes/smm/img/ben.jpg" class="img-responsive" alt="Ben Siekmeier">
-					<div class="person-info">
-						<h2>Ben Siekmeier</h2>
-						<div class="position">Brand Intern</div>
-					</div>
-				</div>
-			</div> -->
 		</div>
-		</section>
+		</div>
 	</div>
 </section>
 
@@ -104,7 +126,7 @@ Description: Learn more about our team.
 		<div class="row">
 			<div class="col-sm-6">
 				<h4>How long will it take you to complete my project?</h4>
-				<p>Each timeline is different, and varies depending on your deliverables and the level of detail your project requires. Let’s meet up and chat.  From that we’ll be able to give you a clear timeframe. Send an email to <a href="mailto:ASK@WEBSTERBD.COM">ask@websterbd.com</a>, and we’ll talk.</p>
+				<p>Each timeline is different, and varies depending on your deliverables and the level of detail your project requires. Let's meet up and chat.  From that we’ll be able to give you a clear timeframe. Send an email to <a href="mailto:ASK@WEBSTERBD.COM">ask@websterbd.com</a>, and we’ll talk.</p>
 			</div>
 			<div class="col-sm-6">
 				<h4>Do you do logos?</h4>

@@ -8,6 +8,7 @@ vendor/twig/twig/test/*
 
 .htaccess
 
+error_log
 
 # OS Generated
 .DS_Store*

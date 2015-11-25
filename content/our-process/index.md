@@ -66,11 +66,11 @@ Description: This description will go in the meta description tag
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-8 col-sm-offset-2 visible-xs visible-sm">
-				<img src="themes/smm/img/branding-photo.jpg" class="img-circle img-responsive" alt="Branding">
+				<img src="themes/smm/img/Purpose_Icon_grey.svg" class="img-circle img-responsive" alt="Branding">
 			</div>
 			<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0 short text-right">
 				<h1>Purpose</h1>
-				<p class="lead">We started at the center and asked “what is the most crucial element to building a strong organizational culture?” We realized that a core Purpose was absolutley essential to direction, focus and culture.</p>
+				<p class="lead">We started at the center and asked "what is the most crucial element to building a strong organizational culture?" We realized that a core Purpose was absolutley essential to direction, focus and culture.</p>
 			</div>
 			<div class="col-md-6 hidden-xs hidden-sm">
 				<img src="themes/smm/img/branding-photo.jpg" class="img-circle img-responsive" alt="Branding">
@@ -84,11 +84,11 @@ Description: This description will go in the meta description tag
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-0">
-				<img src="themes/smm/img/print-photo.jpg" class="img-circle img-responsive" alt="Print">
+				<img src="themes/smm/img/Position_Icon_grey.svg" class="img-circle img-responsive" alt="Print">
 			</div>
 			<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0 short">
 				<h1>Position</h1>
-				<p class="lead">Because we live in a real world and your brand cannot exist in digital form alone.  Print isEstablishing a clear Position not only in your category but to differentiate in the mind of your audience. This area of the branding world is often referred to as "mind share".</p>
+				<p class="lead">Establishing a clear Position not only in your category but to differentiate in the mind of your audience. This area of the branding world is often referred to as "mind share".</p>
 			</div>
 		</div>
 	</div>
@@ -99,11 +99,11 @@ Description: This description will go in the meta description tag
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-8 col-sm-offset-2 visible-xs visible-sm">
-				<img src="themes/smm/img/web-photo.jpg" class="img-circle img-responsive" alt="Web">
+				<img src="themes/smm/img/Promise_Icon_grey.svg" class="img-circle img-responsive" alt="Web">
 			</div>
 			<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0 short text-right">
 				<h1>Promise</h1>
-				<p class="lead">Your brand is not just your logo and visual identity, it is your reputation—and it is built over time. Your brand Promise is what you are consistently and faithfully delivering to your customers. This expands the branding concept far beyond the marketing dept into every area of customer service. This is on going and far from a one time exercise.</p>
+				<p class="lead">Your brand is not just your logo and visual identity, it is your reputation and it is built over time. Your brand Promise is what you are consistently and faithfully delivering to your customers. This expands the branding concept far beyond the marketing dept into every area of customer service. This is on going and far from a one time exercise.</p>
 				</div>
 				<div class="col-md-6 hidden-xs hidden-sm">
 					<img src="themes/smm/img/web-photo.jpg" class="img-circle img-responsive" alt="Web">
@@ -117,7 +117,7 @@ Description: This description will go in the meta description tag
 	<div class="container">
 		<div class="row">
 			<div class="col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-0">
-				<img src="themes/smm/img/messaging-photo.jpg" class="img-circle img-responsive" alt="Messaging">
+				<img src="themes/smm/img/Personality_Icon_grey.svg" class="img-circle img-responsive" alt="Messaging">
 			</div>
 			<div class="col-sm-10 col-sm-offset-1 col-md-6 col-md-offset-0 short">
 				<h1>Personality</h1>

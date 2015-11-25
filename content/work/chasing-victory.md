@@ -7,7 +7,7 @@ Description: Project presentation for Bethel Logo
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12">
-				<h1 class="title">Chasing Vicgtory</h1>
+				<h1 class="title">Chasing Victory</h1>
 				<div class="page-header-subtitle">Logo Design, Brand Strategy, Creative Direction</div>
 			</div>
 		</div>
